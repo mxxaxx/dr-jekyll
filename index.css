@@ -1,0 +1,84 @@
+body{
+    
+    background-color: #1A2238;
+    
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading{
+    position:absolute;
+    color: #9DAAF2;
+    font-size:80px;
+    left:50%;
+    top:40%;
+    transform: translate(-50%, -50%);
+}
+
+.heading:hover{
+    animation:HOVERtr 5s;
+    
+}
+
+@keyframes HOVERtr{
+    10%, 90%{
+        border-top:#F4DB7D solid;
+        border-bottom:#F4DB7D solid;
+        padding:2rem;
+    }
+}
+
+#religion{
+    position:absolute;
+    color: #9DAAF2;
+    font-size:30px;
+    left:50%;
+    top:150%;
+    transform: translate(-50%);
+}
+
+
+#sigmund-freud{
+    position:absolute;
+    color: #9DAAF2;
+    font-size:30px;
+    left:50%;
+    top:250%;
+    transform: translate(-50%);
+}
+span{
+    color: #FF6A3D;
+}
+
+#author{
+    position:absolute;
+    color: #9DAAF2;
+    font-size:30px;
+    left:50%;
+    top:350%;
+    transform: translate(-50%);
+}
+
+a{
+    text-decoration: none;
+    color:#9DAAF2;
+    border-right:#F4DB7D solid;
+    padding:10px;
+    font-size: 30px;
+}
+
+#gol{
+    position:absolute;
+    top:90%;
+    left:50%;
+    transform: translate(-50%);
+}
+
+#science{
+    position:absolute;
+    color: #9DAAF2;
+    font-size:30px;
+    left:50%;
+    top:450%;
+    transform: translate(-50%);
+}

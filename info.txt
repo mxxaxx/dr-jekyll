@@ -1,0 +1,5 @@
+Colour Scheme:
+#1A2238
+#9DAAF2
+#FF6A3D
+#F4DB7D
