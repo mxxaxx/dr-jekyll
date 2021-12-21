@@ -66,6 +66,10 @@ a{
     padding:10px;
     font-size: 30px;
 }
+a:hover{
+    background: linear-gradient(rgba(0, 0, 0, 0.1) 0 0);
+    
+}
 
 #gol{
     position:absolute;
