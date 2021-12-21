@@ -43,7 +43,7 @@ body{
     color: #9DAAF2;
     font-size:30px;
     left:50%;
-    top:250%;
+    top:400%;
     transform: translate(-50%);
 }
 span{
@@ -55,7 +55,7 @@ span{
     color: #9DAAF2;
     font-size:30px;
     left:50%;
-    top:350%;
+    top:650%;
     transform: translate(-50%);
 }
 
@@ -83,6 +83,6 @@ a:hover{
     color: #9DAAF2;
     font-size:30px;
     left:50%;
-    top:450%;
+    top:950%;
     transform: translate(-50%);
 }
